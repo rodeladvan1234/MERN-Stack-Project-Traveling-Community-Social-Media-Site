@@ -115,7 +115,7 @@ const GoogleMap = ({onMapLoad}) => {
 
 
     // Load the Google Maps script with places library
-    const apiKey = 'AIzaSyDmu00NLOVAlqySFmgviQiKW-S1g5W0V7s';
+    const apiKey = '----API KEY-----';
     loadScript(`https://maps.googleapis.com/maps/api/js?key=${apiKey}&libraries=places`)
       .then(() => {
         // Initialize map and autocomplete after the script has loaded and geolocation is determined
