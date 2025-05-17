@@ -17,7 +17,7 @@ import GoogleMap from '../Googlemaps';
 import useScript from '../useScript';
 import addMarker from '../Googlemaps';
 
-//const GOOGLE_MAPS_API_KEY = 'AIzaSyBqrs-129j8wgl9PH0bDr67r91fAS_3a7I';
+//const GOOGLE_MAPS_API_KEY = '---API KEY----';
 
     //On click button function (needs more testing)
 // function addMarker(){
